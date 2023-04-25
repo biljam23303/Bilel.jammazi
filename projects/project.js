@@ -2,7 +2,7 @@ const Projects = [
     {
         name : "Elagage basé sur l'erreur",
         about : "La méthode d’ élagage est une technique utilisée en apprentissage automatique pour réduire la complexité des modèles entraînés. L'objectif de cette méthode est de supprimer les caractéristiques, les poids ou les neurones qui ne contribuent pas significativement à la précision du modèle",
-        img : "images/dec.gif",
+        img : "images/deci.webp",
         gitrepo : "https://github.com/biljam23303/machinelearning.EBP",
         blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
         tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",

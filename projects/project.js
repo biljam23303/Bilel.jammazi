@@ -19,7 +19,7 @@ const Projects = [
     },
     {
         name : "BUSINESS INTELLIGENCE",
-        about : "The use of Business Intelligence BI tools is a differentiating factor and key to success in the business world; here are some examples:",
+        about : "La Business Intelligence (BI) est un ensemble de techniques et d'outils qui permettent de collecter, d'analyser et de présenter des données afin de faciliter la prise de décision dans une entreprise.",
         img : "images/bi.jpeg",
         gitrepo : "https://github.com/biljam23303/",
         blog : "",

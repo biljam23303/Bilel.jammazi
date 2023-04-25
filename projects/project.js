@@ -41,7 +41,7 @@ const Projects = [
     {
         name : "Creation Cube Olap",
         about : "Les cubes OLAP sont basés sur un modèle de données multidimensionnel, qui comprend des dimensions (telles que le temps, les produits, les régions géographiques) et des mesures (telles que les ventes, les coûts, les bénéfices). Les utilisateurs peuvent naviguer dans le cube OLAP en sélectionnant des dimensions et des mesures pour afficher les données agrégées selon différents niveaux de granularité.",
-        img : "cube.png",
+        img : "images/cube.png",
         gitrepo : "https://github.com/biljam23303/",
         blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
         tech_stack : "HTML | CSS | JAVASCRIPT",

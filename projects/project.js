@@ -1,7 +1,7 @@
 const Projects = [
     {
         name : "Elagage basé sur l'erreur",
-        about : "La méthode d’ élagage est une technique utilisée en apprentissage automatique pour réduire la complexité des modèles entraînés. L'objectif de cette méthode est de supprimer les caractéristiques, les poids ou les neurones qui ne contribuent pas significativement à la précision du modèle",
+        about : "La méthode d’ élagage est une technique utilisée en apprentissage automatique pour réduire la complexité des modèles entraînés. L'objectif de cette méthode est de supprimer les caractéristiques, ",
         img : "images/decis.png",
         gitrepo : "https://github.com/biljam23303/machinelearning.EBP",
         blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
@@ -40,7 +40,7 @@ const Projects = [
     },
     {
         name : "Creation Cube Olap",
-        about : "Les cubes OLAP sont basés sur un modèle de données multidimensionnel, qui comprend des dimensions (telles que le temps, les produits, les régions géographiques) et des mesures (telles que les ventes, les coûts, les bénéfices). Les utilisateurs peuvent naviguer dans le cube OLAP en sélectionnant des dimensions et des mesures pour afficher les données agrégées selon différents niveaux de granularité.",
+        about : "Les cubes OLAP sont basés sur un modèle de données multidimensionnel, qui comprend des dimensions (telles que le temps, les produits, les régions géographiques) et des mesures.",
         img : "images/cube.png",
         gitrepo : "https://github.com/biljam23303/",
         blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",

@@ -13,7 +13,7 @@ const Projects = [
         `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
         `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`
         ],
-        project_link : "https://www.youtube.com/watch?v=iV2l7cWT8TI&ab_channel=bileljammazi",
+        project_link : "https://www.youtube.com/watch?v=OtylANflcD0&t=1s&ab_channel=bileljammazi",
         project_type : "Team Project",
         article_link : "Art1"
     },

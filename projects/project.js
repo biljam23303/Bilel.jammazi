@@ -7,11 +7,11 @@ const Projects = [
         blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
         tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
         tech_stackicons : [
-        `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-        `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-        `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-        `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
-        `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`
+        `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="machine learning"  />`,
+        `<img src="https://img.icons8.com/color/50/000000/css3.png" alt="machine learning" />`,
+        `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="machine learning" />`,
+        `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px" alt="machine learning" />`,
+        `<img src="https://img.icons8.com/windows/48/000000/node-js.png" alt="machine learning" />`
         ],
         project_link : "https://www.youtube.com/watch?v=OtylANflcD0&t=1s&ab_channel=bileljammazi",
         project_type : "Team Project",
@@ -46,9 +46,9 @@ const Projects = [
         blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
         tech_stack : "HTML | CSS | JAVASCRIPT",
         tech_stackicons : [
-            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="cube olap"  />`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png"  alt="cube olap" />`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"  alt="cube olap" />`,
 
         ],
         project_link : "https://www.youtube.com/watch?v=N3K4tLD9clI&t=10s&ab_channel=bileljammazi",
@@ -66,15 +66,15 @@ const Projects = [
         blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs | Bootstrap",
         tech_stackicons : [
-            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/redux.png"/>`,
-            `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/express.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>`
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png"  alt="machine learning"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png" alt="machine learning"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="machine learning" />`,
+            `<img src="https://img.icons8.com/color/50/000000/react-native.png" alt="machine learning" />`,
+            `<img src="https://img.icons8.com/color/48/000000/redux.png" alt="machine learning" />`,
+            `<img src="https://img.icons8.com/windows/48/000000/node-js.png" alt="machine learning" />`,
+            `<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="machine learning" />`,
+            `<img src="https://img.icons8.com/color/48/000000/express.png" alt="machine learning" />`,
+            `<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="machine learning" />`
 
         ],
         project_link : "https://www.youtube.com/watch?v=iV2l7cWT8TI&ab_channel=bileljammazi",
@@ -90,10 +90,10 @@ const Projects = [
         blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | API's",
         tech_stackicons : [
-            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-            `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="machine learning" />`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png" alt="machine learning" />`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="machine learning" />`,
+            `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px" alt="machine learning"/>`
             
         ],
         project_link : "https://www.youtube.com/watch?v=iV2l7cWT8TI&ab_channel=bileljammazi",

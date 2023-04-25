@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
+
+-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+ <url>
     <loc>https://biljam23303.github.io/Business-analyst/index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>

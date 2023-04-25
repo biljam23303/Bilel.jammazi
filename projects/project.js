@@ -20,7 +20,7 @@ const Projects = [
     {
         name : "BUSINESS INTELLIGENCE",
         about : "La Business Intelligence (BI) est un ensemble de techniques et d'outils qui permettent de collecter, d'analyser et de présenter des données afin de faciliter la prise de décision dans une entreprise.",
-        img : "images/bi.Png",
+        img : "images/bis.Png",
         gitrepo : "https://github.com/biljam23303/",
         blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs",

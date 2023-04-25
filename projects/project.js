@@ -20,7 +20,7 @@ const Projects = [
     {
         name : "BUSINESS INTELLIGENCE",
         about : "La Business Intelligence (BI) est un ensemble de techniques et d'outils qui permettent de collecter, d'analyser et de présenter des données afin de faciliter la prise de décision dans une entreprise.",
-        img : "images/bis.png",
+        img : "images/b.png",
         gitrepo : "https://github.com/biljam23303/",
         blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs",
@@ -56,6 +56,8 @@ const Projects = [
         article_link : "Art3"
 
     },
+   
+    /* 
     {
         name : "Clone of MyShopping.com",
         about : "An E-commerce website that sells fashionable, branded clothing for women, men & kids online at MyShopping.com.",
@@ -99,6 +101,7 @@ const Projects = [
         article_link : "Art5"
 
     }
+    */
 ]
 
 

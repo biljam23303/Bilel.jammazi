@@ -40,8 +40,8 @@ const Projects = [
     },
     {
         name : "Creation Cube Olap",
-        about : "An E-commerce website that sells fashionable, branded clothing & footwear and accessories for women, men & kids online at shop4reebok.",
-        img : "https://content.shop4reebok.com/static/hero/Sneeker_Fest_1920x800_091221_2.jpg",
+        about : "Les cubes OLAP sont basés sur un modèle de données multidimensionnel, qui comprend des dimensions (telles que le temps, les produits, les régions géographiques) et des mesures (telles que les ventes, les coûts, les bénéfices). Les utilisateurs peuvent naviguer dans le cube OLAP en sélectionnant des dimensions et des mesures pour afficher les données agrégées selon différents niveaux de granularité.",
+        img : "cube.png",
         gitrepo : "https://github.com/biljam23303/",
         blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
         tech_stack : "HTML | CSS | JAVASCRIPT",
@@ -51,7 +51,7 @@ const Projects = [
             `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
 
         ],
-        project_link : "https://www.youtube.com/watch?v=iV2l7cWT8TI&ab_channel=bileljammazi",
+        project_link : "https://www.youtube.com/watch?v=N3K4tLD9clI&t=10s&ab_channel=bileljammazi",
         project_type : "Team Project",
         article_link : "Art3"
 

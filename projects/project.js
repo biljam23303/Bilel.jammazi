@@ -25,14 +25,14 @@ const Projects = [
         blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs",
         tech_stackicons : [
-            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/redux.png"/>`,
-            `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/express.png"/>`
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="business intelligence" />`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png" alt="business intelligence"   />`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="business intelligence" />`,
+            `<img src="https://img.icons8.com/color/50/000000/react-native.png" alt="business intelligence"  />`,
+            `<img src="https://img.icons8.com/color/48/000000/redux.png" alt="business intelligence" />`,
+            `<img src="https://img.icons8.com/windows/48/000000/node-js.png" alt="business intelligence" />`,
+            `<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="business intelligence" />`,
+            `<img src="https://img.icons8.com/color/48/000000/express.png" alt="business intelligence" />`
         ],
         project_link : "https://www.youtube.com/watch?v=iV2l7cWT8TI&ab_channel=bileljammazi",
         project_type : "Team Project",

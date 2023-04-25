@@ -2,7 +2,7 @@ const Projects = [
     {
         name : "Elagage basé sur l'erreur",
         about : "La méthode d’ élagage est une technique utilisée en apprentissage automatique pour réduire la complexité des modèles entraînés. L'objectif de cette méthode est de supprimer les caractéristiques, ",
-        img : "images/machine learning.png",
+        img : "images/machinelearning.png",
         gitrepo : "https://github.com/biljam23303/machinelearning.EBP",
         blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
         tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
@@ -20,7 +20,7 @@ const Projects = [
     {
         name : "BUSINESS INTELLIGENCE",
         about : "La Business Intelligence (BI) est un ensemble de techniques et d'outils qui permettent de collecter, d'analyser et de présenter des données afin de faciliter la prise de décision dans une entreprise.",
-        img : "images/business intelligence.png",
+        img : "images/businessintelligence.png",
         gitrepo : "https://github.com/biljam23303/",
         blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs",
@@ -41,7 +41,7 @@ const Projects = [
     {
         name : "Creation Cube Olap",
         about : "Les cubes OLAP sont basés sur un modèle de données multidimensionnel, qui comprend des dimensions (telles que le temps, les produits, les régions géographiques) et des mesures.",
-        img : "images/cube olap.png",
+        img : "images/cubeolap.png",
         gitrepo : "https://github.com/biljam23303/",
         blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
         tech_stack : "HTML | CSS | JAVASCRIPT",

@@ -3,7 +3,7 @@ const Projects = [
         name : "Elagage basé sur l'erreur",
         about : "La méthode d’ élagage est une technique utilisée en apprentissage automatique pour réduire la complexité des modèles entraînés. L'objectif de cette méthode est de supprimer les caractéristiques, les poids ou les neurones qui ne contribuent pas significativement à la précision du modèle",
         img : "images/profil.png",
-        gitrepo : "https://github.com/biljam23303/",
+        gitrepo : "https://github.com/biljam23303/machinelearning.EBP",
         blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
         tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
         tech_stackicons : [
@@ -18,7 +18,7 @@ const Projects = [
         article_link : "Art1"
     },
     {
-        name : "BUSNISS INTELLIGENCE",
+        name : "BUSINESS INTELLIGENCE",
         about : "The use of Business Intelligence BI tools is a differentiating factor and key to success in the business world; here are some examples:",
         img : "images/bi.jpeg",
         gitrepo : "https://github.com/biljam23303/",

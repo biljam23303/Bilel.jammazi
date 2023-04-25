@@ -39,7 +39,7 @@ const Projects = [
         article_link : "Art2"
     },
     {
-        name : "Clone of shop4reebok.com",
+        name : "Creation Cube Olap",
         about : "An E-commerce website that sells fashionable, branded clothing & footwear and accessories for women, men & kids online at shop4reebok.",
         img : "https://content.shop4reebok.com/static/hero/Sneeker_Fest_1920x800_091221_2.jpg",
         gitrepo : "https://github.com/biljam23303/",

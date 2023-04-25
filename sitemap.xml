@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://biljam23303.github.io/Business-analyst/</loc>
-    <changefreq>daily</changefreq>
+    <loc>https://biljam23303.github.io/Business-analyst/index.html</loc>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://biljam23303.github.io/Business-analyst/#business-intelligence</loc>
-    <changefreq>daily</changefreq>
+    <loc>https://biljam23303.github.io/Business-analyst/about.html</loc>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://biljam23303.github.io/Business-analyst/#cube-olap</loc>
-    <changefreq>daily</changefreq>
+    <loc>https://biljam23303.github.io/Business-analyst/portfolio.html</loc>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://biljam23303.github.io/Business-analyst/#machine-learning</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <loc>https://biljam23303.github.io/Business-analyst/contact.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>

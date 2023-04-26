@@ -1,2 +1,3 @@
 User-Agent: *
 Allow: /
+Sitemap: https://biljam23303.github.io/busniss-intelligence/sitemap.x

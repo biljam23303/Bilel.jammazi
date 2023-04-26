@@ -7,11 +7,11 @@ const Projects = [
         blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
         tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
         tech_stackicons : [
-        `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="machine learning"  />`,
-        `<img src="https://img.icons8.com/color/50/000000/css3.png" alt="machine learning" />`,
-        `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="machine learning" />`,
-        `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px" alt="machine learning" />`,
-        `<img src="https://img.icons8.com/windows/48/000000/node-js.png" alt="machine learning" />`
+        `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="machine learning"  width="" height="" />`,
+        `<img src="https://img.icons8.com/color/50/000000/css3.png" alt="machine learning"  width="" height="" />`,
+        `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="machine learning"  width="" height="" />`,
+        `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px" alt="machine learning"  width="" height=""/>`,
+        `<img src="https://img.icons8.com/windows/48/000000/node-js.png" alt="machine learning" width="" height="" />`
         ],
         project_link : "https://www.youtube.com/watch?v=OtylANflcD0&t=1s&ab_channel=bileljammazi",
         project_type : "Team Project",
@@ -25,14 +25,14 @@ const Projects = [
         blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs",
         tech_stackicons : [
-            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="business intelligence" />`,
-            `<img src="https://img.icons8.com/color/50/000000/css3.png" alt="business intelligence"   />`,
-            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="business intelligence" />`,
-            `<img src="https://img.icons8.com/color/50/000000/react-native.png" alt="business intelligence"  />`,
-            `<img src="https://img.icons8.com/color/48/000000/redux.png" alt="business intelligence" />`,
-            `<img src="https://img.icons8.com/windows/48/000000/node-js.png" alt="business intelligence" />`,
-            `<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="business intelligence" />`,
-            `<img src="https://img.icons8.com/color/48/000000/express.png" alt="business intelligence" />`
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="business intelligence" width="" height="" />`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png" alt="business intelligence" width="" height=""   />`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="business intelligence" width="" height="" />`,
+            `<img src="https://img.icons8.com/color/50/000000/react-native.png" alt="business intelligence" width="" height=""  />`,
+            `<img src="https://img.icons8.com/color/48/000000/redux.png" alt="business intelligence" width="" height="" />`,
+            `<img src="https://img.icons8.com/windows/48/000000/node-js.png" alt="business intelligence" width="" height="" />`,
+            `<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="business intelligence" width="" height="" />`,
+            `<img src="https://img.icons8.com/color/48/000000/express.png" alt="business intelligence" width="" height="" />`
         ],
         project_link : "https://www.youtube.com/watch?v=iV2l7cWT8TI&ab_channel=bileljammazi",
         project_type : "Team Project",
@@ -46,9 +46,9 @@ const Projects = [
         blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
         tech_stack : "HTML | CSS | JAVASCRIPT",
         tech_stackicons : [
-            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="cube olap"  />`,
-            `<img src="https://img.icons8.com/color/50/000000/css3.png"  alt="cube olap" />`,
-            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"  alt="cube olap" />`,
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="cube olap"  width="" height="" />`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png"  alt="cube olap" width="" height="" />`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"  alt="cube olap" width="" height="" />`,
 
         ],
         project_link : "https://www.youtube.com/watch?v=N3K4tLD9clI&t=10s&ab_channel=bileljammazi",

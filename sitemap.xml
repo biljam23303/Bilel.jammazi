@@ -1,5 +1,5 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<url>
       <loc>https://biljam23303.github.io/busniss-intelligence/</loc>
       <lastmod>2023-04-26T00:00:00+00:00</lastmod>
       <changefreq>weekly</changefreq>
